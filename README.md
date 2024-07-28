@@ -16,4 +16,5 @@ e.	Standardization and Consistency: Calculators provide a standardized method fo
 Your Sincerely: We would happy to discuss this proposal further and answer any question you may have. Thank you for considering our proposal and we look forward to the opportunity to collaborate on this exciting project.
 ( Hamad Khan )
 hamadkhan2553@gmail.com
+
 ![ic_launcher](https://github.com/user-attachments/assets/80160253-ae28-4747-b709-3d8f56111638)
